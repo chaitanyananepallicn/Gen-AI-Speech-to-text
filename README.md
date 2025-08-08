@@ -9,7 +9,7 @@ A web application built with Python and Streamlit that uses Google's Gemini Pro 
 ## Live Application
 
 **You can access a live deployed demo here:**
-[**➡️ Live Transcription App**](https://your-live-app-url.com) ***
+[**➡️ Live Transcription App**](https://gen-ai-story-writing-2.onrender.com) ***
 
 ## Features
 
