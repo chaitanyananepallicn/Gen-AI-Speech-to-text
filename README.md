@@ -25,7 +25,7 @@ A web application built with Python and Streamlit that uses Google's Gemini Pro 
 * **Core Language**: Python
 * **Web Framework**: Streamlit
 * **AI Model**: Google Gemini Pro
-* **Libraries**: `google-generativeai`, `Pillow`
+* **Libraries**: `google-generativeai`
 
 ***
 
@@ -41,7 +41,7 @@ Make sure you have Python 3.8+ and pip installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/gemini-speech-to-text.git](https://github.com/your-username/gemini-speech-to-text.git)
+    git clone https://github.com/chaitanyananepallicn/Gen-AI-Speech-to-text.git
     ```
 
 2.  **Navigate into the project directory:**
